@@ -1,0 +1,301 @@
+---
+name: Robert Dellinger
+date: "`r format(Sys.time(), '%B, %Y')`"
+qualifications: BSc, BA, MS
+address: California State University, Northridge, Department of Biology, 18111 Nordhoff St, Northridge, CA 91330
+profilepic: pic.jpg
+phone: (732)759-1487
+email: robertdellinger0@gmail.com
+website: robdellinger.com
+github: rob-dellinger
+headcolor: 414141
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Education
+
+## Masters of Science, Biology
+- **California State University, Northridge**
+- 2021 - Current
+- GPA: 3.75
+- Advisor: Dr. Nyssa Silbiger
+- Thesis: "Organisms as the Subjects and Objects of Ecological Change: A Case Study Regarding Intertidal Organisms"
+
+## Bachelor of Arts and Science, Double Major
+- **University of California, Davis**
+- 2017 - 2021
+- GPA: 3.18
+- Departmental Citation
+
+- Marine & Coastal Science (B.S.) Emphasis: Oceans and the Earth System
+- International Relations (B.A.) Emphasis: Global Environment, Health, & Natural Resources
+
+# Research & Professional Experience
+
+## Teaching Associate & Graduate Assistant
+- **California State University, Northridge**
+- August 2021 - June 2022
+- Responsibilities:
+  - Instructor for General Biology Lab, which encompasses teaching biological concepts and foundations of biology.
+  - Graduate assistant for Ecology and People and Life in the Sea courses; responsibilities included grading papers and exams throughout the duration of the courses.
+  - Tutoring undergraduate students in the areas of ecology, marine biology, and biology.
+
+## NOAA Fisheries Internship
+- **National Oceanographic and Atmospheric Administration U.S. Chamber of Commerce**
+- Supervisors: Drs. Ann Petersen, Tom Noji, and Chris Chambers
+- June 2021 - August 2021
+- Responsibilities:
+  - Developed an eco-toxicological approach to quantify how contaminants in an urban coastal New Jersey river may result in injury to a key ecosystem member (*Morone americana*) by utilizing histopathology to analyze gill, liver, spleen, and gonad samples.
+  - Contributed to a National Resource Damage Assessment (NRDA) project, identifying histological changes in fish samples from the contaminated river consistent with injury and disease.
+
+## Senior Environmental Technician
+- **Eco-Alpha Environmental & Engineering Services**
+- Supervisor: Dr. Melanie Okoro
+- June 2020 - August 2021
+- Responsibilities:
+  - Management oversight of the procedural development, equipment acquisition, and technician training for federal and state water quality compliance monitoring and reporting programs.
+  - Compilation of technical reports and oversight of relevant environmental regulations as they pertain to clients' activities.
+  - Drafting responses to statewide bid and contract solicitations.
+
+## Undergraduate Researcher, Bay Lab
+- **UC Davis Department of Evolution and Ecology**
+- Supervisor: Dr. Rachael Bay
+- Sept 2019 - August 2021
+- Responsibilities:
+  - Conducting a meta-analysis to assess the evolutionary, ecological, and anthropogenic drivers of the genetic diversity of reef-building corals globally.
+  - Attending and facilitating weekly meetings to discuss current topics in marine ecology and conservation.
+
+## Independent Undergraduate Researcher, Bodega Marine Lab
+- **Bodega Marine Laboratory**
+- Supervisor: BML Director Dr. Gary Cherr
+- June 2019 - July 2019
+- Responsibilities:
+  - Designed an experiment to assess the internal distribution of polystyrene microplastics versus algal consumption in white urchin (*Lytechinus pictus*) larvae to determine if microplastics can impact feeding capacities.
+  - Quantitatively analyzed results and presented discoveries at the Bodega Marine Laboratory Symposium.
+
+## Undergraduate Researcher, Gold Lab
+- **Gold Lab, Bodega Marine Laboratory**
+- Supervisor: Dr. David Gold
+- July 2019 - Sept 2019
+- Responsibilities:
+  - Assessed and maintained live organisms throughout the experimental process whilst simultaneously ensuring experimental controls remained within the proper conditions.
+  - Measured rates of polyp regeneration and colonization of the moon jellyfish  (*Aurelia aurita*) under hypoxic (2mg/L) and normoxic (8mg/L) conditions to assess cell proliferative capability to respond to stress and recover from damage under hypoxic water conditions. Measured dissolved oxygen, temperature, and the diffusion of Nitrogen (N2) gas to ensure “oxic” conditions daily.
+
+## Study Abroad Researcher
+- **Amigos Del Lago NGO**
+- Supervisor: Dr. Eliska Rejmankova
+- July 2017 - Sept 2017
+- Responsibilities:
+  - Conducted aquatic sampling of Lake Atitlán, Guatemala, to compile data on pelagic processes and and biogeochemical gradients along with the depth profile.
+  - Assessed species diversity and water quality to determine the effectiveness of local plants in preventing eutrophication and improving water quality.
+  - Established rapport and liaison with local and government stakeholders in Spanish to enhance understanding of links between ecological and social issues at Lake Atitlán, Guatemala.
+
+## Campus Ambassador
+- **UC Davis Undergraduate Admissions**
+- Supervisor: Jessica Acluna
+- Dec 2017 - June 2021
+- Responsibilities:
+  - Serving as a representative of the university at campus events and conferences. Leading and engaging with large groups of prospective students and special visitors through verbal elocution.
+
+# Leadership & Service
+
+## Anti-Racism Committee, Member
+- **Department of Earth and Planetary Sciences**
+- Supervisor: Dr. Dawn Summer
+- June 2020 - June 2021
+- Responsibilities:
+  - Proposing actions to curtail institutional racism that arises out of department structures, curriculum, and culture.  
+  - Membership included students, staff, postdoctoral scholars, and faculty.
+
+## Gender and Sexuality Commission, Commissioner
+- **Associated Students of the University of California, Davis**
+- Sept 2019 - June 2021
+- Responsibilities:
+  - GASC reviews and makes recommendations to the Associated Students at the University of California, Davis (ASUCD)  on gender, sexuality, and sexual assault programs at UC Davis and throughout the UC system. This voting body has legislative power and the ability to mobilize change on issues pertaining to/but not limited to: domestic violence, gender equality, queer/trans issues, minority groups, and awareness.
+
+## Ethnic and Cultural Affairs Commission, Commissioner
+- **Associated Students of the University of California, Davis**
+- Sept 2017 - June 2019
+- Responsibilities:
+  - As a commission, the main goal is representing historically marginalized groups who face barriers in terms of institutionalized, internalized, and systemic oppression.
+  - Created new policies, programs, and legislation through ASUCD establishing liaison and achieving rapport with all on-campus and off-campus bodies affecting said communities and their quality of life at the University.
+
+## Marine Biology Graduate Student Association, President
+- Sept 2022 - June 2023
+- Responsibilities:
+  - Led readings on seminal ecology and marine biology papers.
+  - Organized club activities, grant writing workshops, and outreach events.
+
+## NoName Book Club Volunteer
+- Volunteered distributing knowledge inside and outside the prison walls that focuses on race, gender, sexuality, class, disability, and the environment.
+
+## Board of Directors, Queer Sol Collective (NGO)
+- Queer and Indigenous-led initiative (2SLGBTQIA+) designed to ignite the emotional connection between the self and the land, piecing back together the true understanding of what nature is, through, art, and Queer embodiment.
+
+# Fellowships, Awards & Distinctions
+
+## Center for Diverse Leadership in Science Fellowship, 2023
+- UCLA
+- $4,000
+- Awarded to diverse leaders in science engaging in significant scholastic endeavors, community-building, and creating a positive impact in our communities. 
+
+## National Science Foundation Graduate Research Fellowship, 2023
+- National Science Foundation
+- $138,000
+- Highly competitive and prestigious fellowship awarded to recognize and support graduate students early in their careers who have demonstrated their potential for significant achievements in science, technology, mathematics, and engineering.
+
+## Sustainable Oceans Scholar, 2022
+- National Science Foundation National Research Traineeship
+- $1,000
+- Sustainable Oceans: from Policy to Science to Decisions training program combines traditional graduate training in core disciplines and interdisciplinary courses on marine science and policy with immersion into the policy process and politics surrounding ecosystem-based management.
+
+## Center for Diverse Leadership in Science Fellowship, 2022
+- UCLA
+- $1,000
+- Awarded to diverse leaders in science engaging in significant scholastic endeavors, community-building, and creating a positive impact in our communities. 
+
+## Department Citation, 2021
+- UC Davis Department of Earth and Planetary Sciences
+- This prestigious award is presented each year to some of the top graduates from each department. Given to students with excellent academic achievement and substantial contributions to the Department.
+
+## Honorable Mention, 2021
+- National Science Foundation
+- The NSF accords Honorable Mention to meritorious applicants who do not receive Fellowship awards and is considered a "significant national academic achievement."
+
+## Geology and Marine and Coastal Science Scholarship, 2020
+- UC Davis Department of Earth and Planetary Sciences
+- $8,000
+- Award is made possible by the National Science Foundation Scholarships in STEM (S-STEM) program and given to students who show promise as a Geology or Marine and Coastal Science major.
+
+## BML Ambassador Award, 2019
+- UC Davis Bodega Marine Laboratory
+- $3,000
+- Awarded to students that illustrate academic excellence and trajectory in their fields, and provides funding for summer research and coursework at Bodega Marine Laboratory.
+
+## Ann E. Pitzer Award, 2018
+- UC Davis
+- $750
+- Travel grant for summer abroad research in Guatemala.
+
+# Academic Conferences & Colloquia
+
+## Dellinger, R.J., Fields, J.B., Silbiger, N.J., 2023.
+- Facing Physiological Constraints: The Response of an Intertidal Gastropod to the Interactive Effects of Ocean Acidification and Warming.
+- NSF Sustainable Oceans Conference. University of California, Davis.
+
+## Dellinger, R.J., Fields, J.B., Silbiger, N.J., 2023.
+- Facing Physiological Constraints: The Response of an Intertidal Gastropod to the Interactive Effects of Ocean Acidification and Warming.
+- CSUNposium.
+
+## Dellinger, R.J., Fields, J.B., Silbiger, N.J., 2022.
+- Facing Physiological Constraints: The Response of an Intertidal Gastropod to the Interactive Effects of Ocean Acidification and Warming.
+- Western Society of Naturalists 104th Annual Conference.
+
+## Dellinger, R.J., et al. 2022.
+- Roundtable Participant. Opportunities and Actions in Ocean Science and Technology.
+- White House Subcommittee on Ocean Science and Technology.
+
+## Dellinger, R.J., et al. 2022.
+- Roundtable Participant. Advancing Diversity, Equity, and Inclusion in California's Ocean Sciences.
+- Ocean Science Trust.
+
+## Dellinger, R.J., 2021.
+- Presentation. Does Industrial Contamination in Urban Coastal Rivers Cause Injury to Wild Fish? Quantifying Injury from Contamination to a key member of the Estuarine Ecosystem, the White Perch.
+- National Oceanographic and Atmospheric Administration Annual Internship Conference.
+
+## Bay, R.A., Dellinger, R.J., Flores, J.A.,  Rumberger, C.A., 2021.
+- Presentation. Assessing the Drivers of Genetic Diversity on Coral Reefs.
+- UC Davis Undergraduate Research Conference.
+
+## Bay, R.A., Dellinger, R.J., Rumberger, C.A., 2020.
+- Presentation. Assessing the Drivers of Genetic Diversity on Coral Reefs.
+- 101st Western Society of Naturalists Conference.
+
+## Dellinger, R.J., Warneke, A. 2020.
+- Designing and Effective Science Website Workshop.
+- 101st Western Society of Naturalists Conference.
+
+## Summer, D.Y., Dellinger, R.J. 2020.
+- Curtailing Institutional Racism in STEM Departments.
+- Geological Society of America Annual Meeting.
+
+## Dellinger, R.J. 2019.
+- Patterns & Consequences of Microplastic Ingestion by Larval Stages of The White Urchin (Lytechinus pictus).
+- Bodega Marine Laboratory Symposium, Bodega Bay, CA.
+
+# Skills
+
+## Language Skills
+- Bilingual (English and Spanish).
+
+## Computer Skills
+- Programming (R).
+- Univariate and multivariate statistics (Excel, R, JMP).
+- Bioinformatic tools (BLAST).
+- Image analysis (ImageJ).
+- Photography (Adobe Photoshop).
+- Design (Adobe Illustrator).
+- Web design (CSS and HTML/Adobe Dreamweaver).
+
+## Research Skills
+- Boating safety courses/license.
+- Environmental compliance.
+- Environmental data analysis.
+- Protocol development.
+- Environmental review.
+- Environmental and aquatic sampling.
+- Microscopy.
+- Confocal microscopy.
+- Micro-pipetting.
+- Serial dilutions.
+- Titrations.
+- Maintenance and care of marine organisms.
+- Rearing of marine organisms.
+- Collection of gametes from marine invertebrates.
+- Culturing marine larvae.
+- Cleanliness and organizational skills.
+
+# Professional Memberships
+
+- Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS).
+- Western Society of Naturalists (WSN).
+
+# References
+
+**Dr. Nyssa Silbiger**
+- CSU Northridge, Department of Biology
+- Phone: 818-677-4427
+- Email: [nyssa.silbiger@csun.edu]
+
+**Dr. Aradhna Tripati**
+- UCLA, Department of Atmospheric and Oceanic Sciences
+- Phone: 626-376-1308
+- Email: [atripati@g.ucla.edu]
+
+**Dr. Rachael Bay**
+- UC Davis, Department of Evolution and Ecology
+- Phone: 530-754-1439
+- Email: [rbay@ucdavis.edu]
+
+**Dr. Tessa Hill**
+- UC Davis, Department of Earth and Planetary Science
+- Phone: 707-875-1910
+- Email: [tmhill@ucdavis.edu]
+
+**Dr. Gary Cherr**
+- UC Davis, Bodega Marine Laboratory Director
+- Phone: 707-875-2051
+- Email: [gncherr@ucdavis.edu]
+
+# Additional References
+
+Available upon request.
+
+
+
+
